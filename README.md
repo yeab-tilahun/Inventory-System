@@ -1,5 +1,4 @@
 # Inventory-System
-# we have included the database logical design, ER diagram and SQL incase you need it😊
 The system that we made tracks items that are stored in a specific warehouse.
 These items are stored in specific storage areas(units). 
 When an item is sold the quantity of that specific item is deducted,
